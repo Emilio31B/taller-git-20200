@@ -1,2 +1,3 @@
 Esto es un archivo de texto
 Cambio
+Cambio A2
